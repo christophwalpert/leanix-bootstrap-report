@@ -1,4 +1,4 @@
-# zalando-bootstrap-report
+# leanix-bootstrap-report
 
 ## Project setup
 ```
